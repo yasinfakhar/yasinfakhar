@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 
 <h3>Hello there👋</h3>
 
-<p>My name is Yasin Fakhar. You can know me here : <a href="yasin-fakhar.ir">yasin-fakhar.ir</a></p>
-<img src='linkedin.JPG'/>
-### 📊 GitHub Stats
+<p>My name is Yasin Fakhar. You can get to know me here : <a href="https://yasin-fakhar.ir">yasin-fakhar.ir</a></p>
+<img src='linkedin.jpg'/>
 
-<img align="center" width="490" src="https://github-readme-stats.vercel.app/api?username=alidehkhodaei&hide=contribs&include_all_commits=true&count_private=true&theme=dark" />
-
-### ⏱️ Wakatime Stats
-
-<img align="center" width="490" src="https://github-readme-stats.vercel.app/api/wakatime?username=alidehkhodaei&theme=dark"/>
